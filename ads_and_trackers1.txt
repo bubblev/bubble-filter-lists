@@ -56,6 +56,7 @@ domdex.com
 events.bouncex.net
 events.cdnwidget.com
 everesttech.net
+evidon.com
 exelator.com
 /facebook-tracking
 fcmatch.youtube.com
@@ -90,6 +91,7 @@ mantisadnetwork.com
 metric.gstatic.com
 mfadsrvr.com
 moatads.com
+/mysidia/
 notify.bugsnag.com
 .openx.net
 outbrain.com
