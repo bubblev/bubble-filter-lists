@@ -47,6 +47,7 @@ connect.facebook.net
 crashlytics.com
 crazyegg.com
 creativecdn.com
+crossinstall.com
 dailymix-images.scdn.co
 dartsearch.net
 dc-1.net
@@ -82,6 +83,7 @@ incoming.telemetry.mozilla.org
 ipredictive.com
 jadserve.postrelease.com
 js-agent.newrelic.com
+kochava.com
 krxd.net
 kxcdn.com
 l.betrad.com
