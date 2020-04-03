@@ -4,6 +4,7 @@ adcolony.com
 addtoany.com
 adform.net
 /adnw_sync
+adjust.com
 adnxs.com
 adservice.google.com
 /ads/ga-audiences
@@ -23,11 +24,13 @@ anyclip.com
 api.bounceexchange.com
 api-js.mixpanel.com
 api.segment.io
+applovin.com
 app-measurement.com
 appsflyer.com
 appspot.com
 /asnc/
 /async/newtab_promos
+atom-data.io
 auto-api.yelp.com/analytics
 bam.nr-data.net
 basketful.co
@@ -40,6 +43,7 @@ bugsnag.com
 bunsen.yelp.com
 casalemedia.com
 cdn.segment.com
+cdp.cloud.unity3d.com/v1/events
 chartbeat.net
 choices.truste.com
 collector.githubapp.com
@@ -54,6 +58,7 @@ dc-1.net
 demdex.net
 domdex.com
 .doubleclick.net
+ecommerce.iap.unity3d.com
 events.bouncex.net
 events.cdnwidget.com
 everesttech.net
@@ -67,6 +72,7 @@ flurry.com
 fqtag.com
 geolocation.onetrust.com
 getpocket.cdn.mozilla.net
+gjg-tech.com
 googleadservices.com
 /google-analyticator/
 googlesyndication.com
@@ -93,6 +99,7 @@ mantisadnetwork.com
 metric.gstatic.com
 mfadsrvr.com
 moatads.com
+mopub.com
 /mysidia/
 notify.bugsnag.com
 .openx.net
@@ -111,6 +118,7 @@ pubmatic.com
 pub.network
 push.services.mozilla.com
 quantserve.com
+rayjump.com
 revcontent.com
 revjet.com
 rlcdn.com
@@ -118,12 +126,16 @@ rtbsuperhub.com
 .rubiconproject.com
 sb.scorecardresearch.com
 shavar.services.mozilla.com
+smaato.net
 snippets.cdn.mozilla.net
 spocs.getpocket.com
 sportradarserving.com
 spotxchange.com
 .springserve.com
+ssacdn.com
 static.pingdom.net
+supersonic.com
+supersonicads.com
 taboola.com
 tag=text/magneto
 tapad.com
@@ -135,9 +147,11 @@ tinypass.com
 track*.aniview.com
 trafficjunky.net
 undertone.com
+unityads.unity3d.com
 /usersync/bluekai
 /VerveWireless/verve-ios-adsdk
 /vpaid
+vungle.com
 www.facebook.com/tr/
 www.googletagservices.com
 zorosrv.com
