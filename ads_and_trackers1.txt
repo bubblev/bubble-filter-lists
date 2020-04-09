@@ -73,7 +73,9 @@ fqtag.com
 geolocation.onetrust.com
 getpocket.cdn.mozilla.net
 gjg-tech.com
-googleadservices.com
+googleadservices.co
+google-analytics.com
+www.google-analytics.com
 /google-analyticator/
 googlesyndication.com
 googletagmanager.com
