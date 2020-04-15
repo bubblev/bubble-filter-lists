@@ -1,2 +1,3 @@
 # Name: Bubble TLS Passthrough Whitelist
-kyuss.org
+zoom.us
+/[.\w\d]+\.zoom\.us$/
