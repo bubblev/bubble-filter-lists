@@ -84,6 +84,7 @@ googletagmanager.com
 graph.facebook.com
 groupbycloud.com
 gumgum.com
+gvt1.com
 hotjar.com
 iadsdk.apple.com
 imrworldwide.com
