@@ -1,3 +1,4 @@
+/1px_rule.png
 .152media.com
 2mdn.net
 adcolony.com
@@ -109,8 +110,10 @@ outbrain.com
 /pagead/drt
 parsely/
 .parsely.com
+.pbbl.co
 phncdn.com
 pixel.anyclip.com
+pixel.keywee.co
 pixel.wp.com
 /p.js
 pl.scdn.co
