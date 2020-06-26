@@ -24,6 +24,7 @@ anyclip.com
 /anyclip-widget
 api.bounceexchange.com
 api-js.mixpanel.com
+api.mixpanel.com
 api.segment.io
 applovin.com
 app-measurement.com
@@ -46,6 +47,7 @@ casalemedia.com
 cdn.segment.com
 cdp.cloud.unity3d.com/v1/events
 chartbeat.net
+choices.trustarc.com
 choices.truste.com
 collector.githubapp.com
 connect.facebook.net
@@ -205,3 +207,14 @@ licasd.com
 cogocast.net
 li.signupgenius.com/imp
 r.superhuman.com
+ubimo.com
+mparticle.com
+fbcdn.net
+d2br548mr8rnz3.cloudfront.net
+ad-score.com
+192.48.236.
+104.244.38.
+104.244.39.
+advanseads.com
+yabidos.com
+bidr.io
