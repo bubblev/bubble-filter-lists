@@ -14,3 +14,4 @@ xp.apple.com
 *.icloud.com
 apps.mzstatic.com
 *.zoom.us
+*.wellsfargo.com
