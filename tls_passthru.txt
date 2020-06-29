@@ -9,7 +9,7 @@ fufb.io
 *.itunes.apple.com
 guzzoni.apple.com
 pancake.apple.com
-apps.apple.com
+*.apps.apple.com
 xp.apple.com
 setup.icloud.com
 *.zoom.us
