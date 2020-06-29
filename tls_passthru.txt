@@ -7,4 +7,7 @@ bubblev.net
 bubblesecure.com
 fufb.io
 *.itunes.apple.com
+guzzoni.apple.com
+pancake.apple.com
+setup.icloud.com
 *.zoom.us
