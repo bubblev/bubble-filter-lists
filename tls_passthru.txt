@@ -15,3 +15,4 @@ xp.apple.com
 apps.mzstatic.com
 *.zoom.us
 *.wellsfargo.com
+*.trusteer.com
