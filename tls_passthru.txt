@@ -10,6 +10,7 @@ fufb.io
 guzzoni.apple.com
 pancake.apple.com
 *.apps.apple.com
+*.push.apple.com
 xp.apple.com
 *.icloud.com
 apps.mzstatic.com
