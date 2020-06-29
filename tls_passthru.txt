@@ -17,3 +17,4 @@ apps.mzstatic.com
 *.wellsfargo.com
 *.wellsfargomedia.com
 *.trusteer.com
+*.usaa.com
