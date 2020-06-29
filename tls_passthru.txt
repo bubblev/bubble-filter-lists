@@ -1,6 +1,4 @@
 # Name: Bubble TLS Passthrough Whitelist
-zoom.us
-/[.\w\d]+\.zoom\.us$/
 getbubblenow.com
 bubv.net
 bubblev.com
@@ -8,4 +6,5 @@ bubblev.co
 bubblev.net
 bubblesecure.com
 fufb.io
-bag.itunes.apple.com
+*.itunes.apple.com
+*.zoom.us
