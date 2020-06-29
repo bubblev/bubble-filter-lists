@@ -11,7 +11,6 @@ guzzoni.apple.com
 pancake.apple.com
 *.apps.apple.com
 xp.apple.com
-setup.icloud.com
-gateway.icloud.com
+*.icloud.com
 apps.mzstatic.com
 *.zoom.us
