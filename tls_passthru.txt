@@ -12,4 +12,5 @@ pancake.apple.com
 *.apps.apple.com
 xp.apple.com
 setup.icloud.com
+apps.mzstatic.com
 *.zoom.us
