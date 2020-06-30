@@ -22,4 +22,4 @@ apps.mzstatic.com
 *.usaa.com
 mobile-api.opentable.com
 ac.opentable.com
-
+in.appcenter.ms
