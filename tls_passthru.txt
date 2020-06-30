@@ -19,4 +19,4 @@ apps.mzstatic.com
 *.wellsfargomedia.com
 *.trusteer.com
 *.usaa.com
-in.appcenter.ms
+mobile-api.opentable.com
