@@ -21,3 +21,4 @@ apps.mzstatic.com
 *.usaa.com
 mobile-api.opentable.com
 ac.opentable.com
+gsp-ssl.ls.apple.com
