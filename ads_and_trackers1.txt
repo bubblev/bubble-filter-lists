@@ -3626,5 +3626,5 @@ zqtk.net
 zukxd6fkxqn.com
 zy16eoat1w.com
 zzhc.vnet.cn
-/api/stats/watchtime
-/youtubei/v1/log_event
+/api/stats/watchtime.*/
+/youtubei/v1/log_event.*/
