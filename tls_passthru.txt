@@ -20,3 +20,4 @@ apps.mzstatic.com
 *.trusteer.com
 *.usaa.com
 mobile-api.opentable.com
+ac.opentable.com
