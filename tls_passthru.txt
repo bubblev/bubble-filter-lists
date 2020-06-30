@@ -7,7 +7,6 @@ bubblev.net
 bubblesecure.com
 fufb.io
 *.itunes.apple.com
-*.ls.apple.com
 guzzoni.apple.com
 pancake.apple.com
 *.apps.apple.com
@@ -20,6 +19,3 @@ apps.mzstatic.com
 *.wellsfargomedia.com
 *.trusteer.com
 *.usaa.com
-mobile-api.opentable.com
-ac.opentable.com
-in.appcenter.ms
