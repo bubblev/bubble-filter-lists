@@ -2583,7 +2583,7 @@ oxen.hillcountrytexas.com
 p2r14.com
 padsbrown.com
 padssup.com
-/pagead/drt
+/pagead
 pagead.l.google.com
 pagefair.com
 pagefair.net
@@ -3626,9 +3626,5 @@ zqtk.net
 zukxd6fkxqn.com
 zy16eoat1w.com
 zzhc.vnet.cn
-youtube.com/api/stats/watchtime
-youtube.com/pagead/
-youtube.com/youtubei/v1/log_event
-m.youtube.com/api/stats/watchtime
-m.youtube.com/pagead/
-m.youtube.com/youtubei/v1/log_event
+/api/stats/watchtime
+/youtubei/v1/log_event
