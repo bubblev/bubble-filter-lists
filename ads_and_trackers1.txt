@@ -1061,6 +1061,7 @@ anxiousapples.com
 anyclip.com
 /anyclip-widget
 apathetictheory.com
+api.twitter.com/1.1/jot/
 api.bounceexchange.com
 api.intensifier.de
 api.jetlore.com
