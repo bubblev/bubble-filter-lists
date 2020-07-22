@@ -2651,6 +2651,7 @@ pixel.adsafeprotected.com
 pixel.anyclip.com
 pixel.condenastdigital.com
 pixel.digitru.st
+pixel.facebook.com
 pixel.keywee.co
 pixel.mtrcs.samba.tv
 pixel.sojern.com
@@ -2960,6 +2961,7 @@ sedotracker.com
 selectionsugar.com
 selectivesummer.com
 semasio.net
+/sem_campaigns/
 sendmepixel.com
 sensismediasmart.com.au
 separatesilver.com
