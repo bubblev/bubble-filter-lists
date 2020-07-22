@@ -1804,7 +1804,7 @@ fastly-insights.com
 faultycanvas.com
 faultyfowl.com
 /faviconV2
-~fbcdn.net~["referer ne facebook.com"]
+~fbcdn.net~["referer_host ne facebook.com"]
 fcmatch.youtube.com
 fcmtoken.googleapis.com
 fc.webmasterpro.de
