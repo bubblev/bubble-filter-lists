@@ -1,4 +1,4 @@
-101com.com
+01com.com
 101order.com
 1-1ads.com
 123freeavatars.com
@@ -1804,7 +1804,7 @@ fastly-insights.com
 faultycanvas.com
 faultyfowl.com
 /faviconV2
-~fbcdn.net~["referer_host ne facebook.com"]
+~fbcdn.net~["referer_host ne facebook.com", "referer_host ne www.facebook.com"]
 fcmatch.youtube.com
 fcmtoken.googleapis.com
 fc.webmasterpro.de
