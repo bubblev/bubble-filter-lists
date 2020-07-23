@@ -3636,3 +3636,4 @@ youtube.com/get_midroll_info*
 *.youtube.com/youtubei/v1/log_event*
 *.youtube.com/get_midroll_info*
 smoot.apple.com
+ess.apple.com
