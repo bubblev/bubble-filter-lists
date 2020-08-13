@@ -2556,6 +2556,7 @@ open.oneplus.net
 opentag-stats.qubit.com
 openx.angelsgroup.org.uk
 .openx.net
+openx.net
 openx.smcaen.fr
 operationkettle.com
 opienetwork.com
@@ -2654,6 +2655,7 @@ pixel.digitru.st
 pixel.facebook.com
 pixel.keywee.co
 pixel.mtrcs.samba.tv
+pixel.parsely.com
 pixel.sojern.com
 pixel.watch
 pixel.wp.com
