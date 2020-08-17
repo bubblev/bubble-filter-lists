@@ -5,7 +5,7 @@
 .152media.com
 180hits.de
 180searchassistant.com
-/1px_rule.png
+/*1px_rule.png
 1rx.io
 207.net
 247media.com
@@ -287,8 +287,8 @@ adnium.com
 adn.lrb.co.uk
 ad.nozonedata.com
 ad.nttnavi.co.jp
-/adnw_logging/
-/adnw_sync
+/*adnw_logging/
+/*adnw_sync
 ad.nwt.cz
 adnxs.com
 adocean.pl
@@ -575,7 +575,7 @@ ads.foxnetworks.com
 ads.freecity.de
 ads.friendfinder.com
 ads.ft.com
-/ads/ga-audiences
+/*ads/ga-audiences
 ads-game-187f4.firebaseapp.com
 ads.gamecity.net
 ads.gamershell.com
@@ -663,7 +663,7 @@ adsmart.com
 adsmart.net
 ads.massinfra.nl
 ads.mcafee.com
-/ads/measurement
+/*ads/measurement
 ads.mediaodyssey.com
 ads.mediasmart.es
 ads.medienhaus.de
@@ -909,7 +909,7 @@ advertisespace.com
 advertisingbanners.com
 advertisingbox.com
 advertising.com
-/advertising.js
+/*advertising.js
 advertisingtag.net
 advertmarket.com
 advertmedia.de
@@ -1059,7 +1059,7 @@ anstrex.com
 anuncios.edicaoms.com.br
 anxiousapples.com
 anyclip.com
-/anyclip-widget
+/*anyclip-widget
 apathetictheory.com
 api.twitter.com/1.1/jot/
 api.bounceexchange.com
@@ -1787,7 +1787,7 @@ eyeviewads.com
 eyewonder.com
 ezula.com
 f7ds.liberation.fr
-/facebook-tracking
+/*facebook-tracking*
 facilitategrandfather.com
 fadedprofit.com
 fadedsnow.com
@@ -1908,13 +1908,13 @@ go-mpulse.net
 gondolagnome.com
 googleadservices.co
 googleadservices.com
-/google-analyticator/
+/.*google-analyticator/
 google-analytics.com
 googleanalytics.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
-/google-tracking
+/*google-tracking
 go-rank.de
 gorgeousground.com
 gossipmiser.com
@@ -2450,7 +2450,7 @@ n69.com
 naj.sk
 naradxb.com
 nastydollars.com
-/nativeads
+/*nativeads
 nativeroll.tv
 naturalbid.com
 navegg.com
@@ -2536,6 +2536,7 @@ onaudience.com
 onclasrv.com
 onclickads.net
 oneandonlynetwork.com
+onelink.me
 onenetworkdirect.com
 onestat.com
 onestatfree.com
@@ -2585,7 +2586,7 @@ oxen.hillcountrytexas.com
 p2r14.com
 padsbrown.com
 padssup.com
-/pagead
+/*pagead
 pagead.l.google.com
 pagefair.com
 pagefair.net
@@ -2963,7 +2964,7 @@ sedotracker.com
 selectionsugar.com
 selectivesummer.com
 semasio.net
-/sem_campaigns/
+/*sem_campaigns/
 sendmepixel.com
 sensismediasmart.com.au
 separatesilver.com
@@ -3186,7 +3187,6 @@ tagan.adlightning.com
 tagger.opecloud.com
 tag.links-analytics.com
 tags.tiqcdn.com
-tag=text/magneto
 tagular.com
 tailsweep.com
 tailsweep.se
@@ -3478,7 +3478,7 @@ voluum.com
 voluumtrk2.com
 volvelle.tech
 voodoo-ads.io
-/vpaid
+/*vpaid
 vpon.com
 vrs.cz
 vrtzcontextualads.com
