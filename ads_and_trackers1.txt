@@ -1889,7 +1889,7 @@ geovisite.com
 getclicky.com
 getintent.com
 getmyads.com
-getpocket.cdn.mozilla.net
+~~getpocket.cdn.mozilla.net
 giddycoat.com
 gjg-tech.com
 globalismedia.com
@@ -3073,7 +3073,7 @@ spiffymachine.com
 spinbox.techtracker.com
 spinbox.versiontracker.com
 spirebaboon.com
-spocs.getpocket.com
+~~spocs.getpocket.com
 sponsorads.de
 sponsorpro.de
 sponsors.thoughtsmedia.com
@@ -3637,5 +3637,5 @@ youtube.com/get_midroll_info*
 *.youtube.com/api/stats/watchtime*
 *.youtube.com/youtubei/v1/log_event*
 *.youtube.com/get_midroll_info*
-smoot.apple.com
+~~smoot.apple.com
 
