@@ -2067,7 +2067,7 @@ inaccused.com
 incentaclick.com
 inclk.com
 incognitosearches.com
-incoming.telemetry.mozilla.org
+~~incoming.telemetry.mozilla.org
 indexexchange.com
 indexstats.com
 indexww.com
