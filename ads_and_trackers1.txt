@@ -3045,7 +3045,7 @@ smilingwaves.com
 smrtb.com
 snapads.com
 sneakystamp.com
-snippets.cdn.mozilla.net
+~~snippets.cdn.mozilla.net
 snoobi.com
 socialspark.com
 softclick.com.br
