@@ -3561,7 +3561,7 @@ wtlive.com
 www8.glam.com
 www-banner.chat.ru
 www.dnps.com
-www.facebook.com/ajax/bz/
+www.facebook.com/ajax/bz
 www.facebook.com/tr/
 www.google-analytics.com
 www-google-analytics.l.google.com
