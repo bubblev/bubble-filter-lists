@@ -3563,6 +3563,7 @@ www-banner.chat.ru
 www.dnps.com
 www.facebook.com/tr/
 www.facebook.com/ajax/bz
+@@~www.facebook.com/api/graphql/~["referer_host eq www.facebook.com"]
 www.google-analytics.com
 www-google-analytics.l.google.com
 www.googletagservices.com
