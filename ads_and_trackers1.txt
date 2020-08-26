@@ -1804,7 +1804,7 @@ fastly-insights.com
 faultycanvas.com
 faultyfowl.com
 /faviconV2
-~fbcdn.net~["referer_host ne facebook.com", "referer_host ne www.facebook.com"]
+~fbcdn.net~["referer_host ne facebook.com", "referer_host ne www.facebook.com", "referer_host ne m.facebook.com"]
 fcmatch.youtube.com
 fcmtoken.googleapis.com
 fc.webmasterpro.de
@@ -3564,6 +3564,7 @@ www.dnps.com
 www.facebook.com/tr/
 www.facebook.com/ajax/bz
 @@~www.facebook.com/api/graphql/~["referer_host eq www.facebook.com"]
+@@~www.facebook.com/api/graphql/~["referer_host eq m.facebook.com"]
 www.google-analytics.com
 www-google-analytics.l.google.com
 www.googletagservices.com
