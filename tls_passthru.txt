@@ -10,6 +10,7 @@ fufb.io
 gsa.apple.com
 guzzoni.apple.com
 pancake.apple.com
+configuration.apple.com
 nc-pod2-smp-device.apple.com
 *.apps.apple.com
 *.push.apple.com
