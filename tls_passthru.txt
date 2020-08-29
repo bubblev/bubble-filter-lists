@@ -11,10 +11,11 @@ gsa.apple.com
 guzzoni.apple.com
 pancake.apple.com
 configuration.apple.com
-nc-pod2-smp-device.apple.com
+*-smp-device.apple.com
 *.apps.apple.com
 *.push.apple.com
 xp.apple.com
+smp-paymentservices.apple.com
 *.icloud.com
 apps.mzstatic.com
 *.zoom.us
