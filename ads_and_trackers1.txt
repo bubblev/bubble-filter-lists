@@ -222,7 +222,7 @@ adjix.com
 adjug.com
 adjuggler.com
 adjuggler.yourdictionary.com
-adjust.com
+~~adjust.com
 adjustnetwork.com
 adk2.co
 adk2.com
@@ -1547,7 +1547,7 @@ cqcounter.com
 crabbychin.com
 crakmedia.com
 craktraffic.com
-crashlytics.com
+~~crashlytics.com
 crawlability.com
 crawlclocks.com
 crazyegg.com
@@ -2078,7 +2078,7 @@ infinite-ads.com
 infinityads.com
 infolinks.com
 information.com
-inmobi.com
+~~inmobi.com
 inner-active.com
 .inner-active.mobi
 innocentwax.com
