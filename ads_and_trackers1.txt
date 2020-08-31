@@ -1069,7 +1069,7 @@ api-js.mixpanel.com
 api.mixpanel.com
 api.segment.io
 apolloprogram.io
-app-analytics.snapchat.com
+~~app-analytics.snapchat.com
 appboycdn.com
 applovin.com
 app-measurement.com
@@ -3046,7 +3046,7 @@ smetrics.walgreens.com
 smetrics.washingtonpost.com
 smilingwaves.com
 smrtb.com
-snapads.com
+~~snapads.com
 sneakystamp.com
 ~~snippets.cdn.mozilla.net
 snoobi.com
@@ -3387,7 +3387,7 @@ trknths.com
 trkn.us
 trk.techtarget.com
 trmit.com
-tr.snapchat.com
+~~tr.snapchat.com
 truckstomatoes.com
 truehits1.gits.net.th
 truehits2.gits.net.th
