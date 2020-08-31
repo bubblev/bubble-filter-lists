@@ -1926,6 +1926,7 @@ gracefulsock.com
 grandioseguide.com
 grapeshot.co.uk
 graph.facebook.com
+graph.instagram.com/logging_client_events
 greetzebra.com
 greyinstrument.com
 greystripe.com
@@ -2092,6 +2093,8 @@ inskinad.com
 inspectlet.com
 inspectorclick.com
 install.365-stream.com
+www.instagram.com/ajax/bz
+www.instagram.com/logging
 instantmadness.com
 insticator.com
 instinctiveads.com
