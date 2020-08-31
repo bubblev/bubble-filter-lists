@@ -1062,6 +1062,7 @@ anyclip.com
 /*anyclip-widget
 apathetictheory.com
 api.twitter.com/1.1/jot/
+api.twitter.com/live_pipeline/events
 api.bounceexchange.com
 api.intensifier.de
 api.jetlore.com
