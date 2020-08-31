@@ -18,7 +18,7 @@ configuration.apple.com
 xp.apple.com
 smp-paymentservices.apple.com
 *.icloud.com
-apps.mzstatic.com
+*.mzstatic.com
 *.zoom.us
 *.wellsfargo.com
 *.wellsfargomedia.com
