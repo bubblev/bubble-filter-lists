@@ -1,3 +1,4 @@
+# Name: Flex Routing domains
 choicehotels.com
 macys.com
 abercrombie.com
