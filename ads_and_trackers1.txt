@@ -1757,7 +1757,7 @@ events.cdnwidget.com
 events.redditmedia.com
 everestads.net
 everesttech.net
-evergage.com
+~evergage.com~["host ne abercrombie.evergage.com"]
 eversales.space
 evidon.com
 evyy.net
