@@ -3052,6 +3052,7 @@ smrtb.com
 sneakystamp.com
 ~~snippets.cdn.mozilla.net
 snoobi.com
+snowplowanalytics.com
 socialspark.com
 softclick.com.br
 sojern.com
@@ -3102,6 +3103,7 @@ srvmath.com
 srvtrck.com
 srwww1.com
 ssacdn.com
+sspinc.io
 stackadapt.com
 stack-sonar.com
 stakingscrew.com
@@ -3647,4 +3649,3 @@ youtube.com/get_midroll_info*
 *.youtube.com/youtubei/v1/log_event*
 *.youtube.com/get_midroll_info*
 ~~smoot.apple.com
-
