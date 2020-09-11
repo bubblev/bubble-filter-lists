@@ -1758,7 +1758,7 @@ events.redditmedia.com
 everestads.net
 everesttech.net
 evergage.com
-@@abercrombie.evergage.com
+# @@abercrombie.evergage.com
 eversales.space
 evidon.com
 evyy.net
@@ -2058,6 +2058,7 @@ imgpromo.easyrencontre.com
 immensehoney.com
 imonitor.nethost.cz
 imonomy.com
+impactradius-event.com
 importedincrease.com
 impossibleexpansion.com
 imprese.cz
@@ -3077,6 +3078,7 @@ speedshiftmedia.com
 spezialreporte.de
 spidersboats.com
 spiffymachine.com
+s.pinimg.com
 spinbox.techtracker.com
 spinbox.versiontracker.com
 spirebaboon.com
@@ -3245,6 +3247,7 @@ textlinks.com
 t.firstpromoter.com
 theadex.com
 theadhost.com
+thebrighttag.com
 thebugs.ws
 theclickads.com
 themoneytizer.com
