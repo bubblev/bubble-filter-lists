@@ -3581,6 +3581,7 @@ www.google-analytics.com
 www-google-analytics.l.google.com
 www.googletagservices.com
 www.kaplanindex.com
+www.linkedin.com/li/track
 www.photo-ads.co.uk
 wwwpromoter.com
 x6.yakiuchi.com
