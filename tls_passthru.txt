@@ -6,6 +6,8 @@ bubblev.co
 bubblev.net
 bubblesecure.com
 fufb.io
+appstoreconnect.apple.com
+idmsa.apple.com
 *.itunes.apple.com
 itunes.apple.com
 gsa.apple.com
