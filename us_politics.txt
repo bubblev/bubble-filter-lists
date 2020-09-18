@@ -3,6 +3,7 @@ democrat
 _DNC
 republican
 _RNC
-trump
-
-
+_Trump
+_Biden
+_Pence
+_Kamala Harris
