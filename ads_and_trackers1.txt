@@ -3581,6 +3581,7 @@ www.google-analytics.com
 www-google-analytics.l.google.com
 www.googletagservices.com
 www.kaplanindex.com
+platform.linkedin.com/js/analytics.js
 www.linkedin.com/li/track
 www.linkedin.com/platform-telemetry/
 www.photo-ads.co.uk
