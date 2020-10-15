@@ -1,4 +1,6 @@
 # Name: Bubble TLS Passthrough Whitelist
+
+# Bubble
 getbubblenow.com
 bubv.net
 bubblev.com
@@ -6,6 +8,8 @@ bubblev.co
 bubblev.net
 bubblesecure.com
 fufb.io
+
+# Apple
 appstoreconnect.apple.com
 idmsa.apple.com
 *.itunes.apple.com
@@ -21,12 +25,25 @@ xp.apple.com
 smp-paymentservices.apple.com
 *.icloud.com
 *.mzstatic.com
+
+# Zoom
 *.zoom.us
+
+# Wells Fargo
 *.wellsfargo.com
 *.wellsfargomedia.com
 *.trusteer.com
+
+# USAA
 *.usaa.com
+
+# PayPal
 paypal.com
 *.paypal.com
+*.paypalobjects.com
+paypalobjects.com
+ocsp.digicert.com
+
+# Venmo
 venmo.com
 *.venmo.com
