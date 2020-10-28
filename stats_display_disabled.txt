@@ -11,6 +11,7 @@ bestbuy.com
 carta.com
 clickup.com
 chase.com
+cnn.com
 concur.com
 datadog.com
 duckduckgo.com

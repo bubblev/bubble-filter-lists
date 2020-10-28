@@ -27,7 +27,6 @@ chicagotribune.com
 chicagoreader.com
 chicksontheright.com
 citylimits.org
-cnn.com
 commentarymagazine.com
 conservapedia.com
 conservativetribune.com
@@ -142,6 +141,7 @@ seattletimes.com
 sfchronicle.com
 sfgate.com
 slate.com
+snopes.com
 spectator.org
 suntimes.com
 talkingpointsmemo.com
